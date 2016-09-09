@@ -2,7 +2,7 @@
  * Programa en Java que dado un número entero positivo determina si es número
  * primo o no.
  */
-package numero.primo.o.no;
+package numeroPrimo;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author Enrique A. Martínez Agudelo
  */
-public class NumeroPrimoONo {
+public class boolPrimo {
 
     /**
      * @param args the command line arguments
